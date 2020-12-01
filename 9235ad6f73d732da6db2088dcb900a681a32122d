@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0368154e_4bc68364",
+        "filename": "Dockerfile",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4965
+      },
+      "writtenOn": "2020-12-01T19:26:07Z",
+      "side": 1,
+      "message": "please reduce number of layers by merging several lines into one",
+      "revId": "9235ad6f73d732da6db2088dcb900a681a32122d",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
