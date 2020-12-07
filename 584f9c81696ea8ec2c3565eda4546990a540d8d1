@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "38348b07_c57c5555",
+        "filename": "Dockerfile",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2319
+      },
+      "writtenOn": "2020-12-07T17:01:09Z",
+      "side": 1,
+      "message": "apk add --no-cache\none action per line please",
+      "revId": "584f9c81696ea8ec2c3565eda4546990a540d8d1",
+      "serverId": "14b4e41f-c4e3-4fb9-9955-6a9b5656895a",
+      "unresolved": true
+    }
+  ]
+}
